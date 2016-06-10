@@ -1,0 +1,6 @@
+{"invoices" :
+  {
+    "id001" : {"name" : "Francesco Rao", "date" : "19/12/1977"},
+    "id002" : {"name" : "Alessandra Lucca", "date" : "13/11/1985"}
+  }
+}
