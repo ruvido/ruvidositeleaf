@@ -5,11 +5,6 @@ published: false
 color: red
 ---
 
----
-permalink: chi_sono
-color: red
----
-
 Ciao,
 
 mi chiamo Francesco e sono un fotografo.
