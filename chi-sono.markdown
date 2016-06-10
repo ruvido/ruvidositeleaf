@@ -6,6 +6,7 @@ published: false
 
 ---
 permalink: chi_sono
+color: red
 ---
 
 Ciao,
